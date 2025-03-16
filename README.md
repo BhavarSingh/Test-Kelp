@@ -43,3 +43,11 @@ This will launch the server on http://localhost:3000. To convert CSV data and in
 
 http://localhost:3000/convert-csv
 
+
+### Screenshot of testing using postman:
+
+
+![image](https://github.com/user-attachments/assets/a073b153-9647-4c63-ac93-ebfd70947f65)
+
+Age distribution: 
+![image](https://github.com/user-attachments/assets/e4bb557e-9629-43ea-80df-43178fd8c563)
