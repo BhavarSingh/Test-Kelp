@@ -15,7 +15,7 @@ Follow these steps to set up the project locally:
 
 ### Clone the repository
 
-git clone https://github.com/your-username/your-repository.git
+git clone [https://github.com/your-username/your-repository.git](https://github.com/BhavarSingh/Test-Kelp.git)
 cd your-repository
 
 ### Install dependencies
